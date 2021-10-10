@@ -14,7 +14,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<!-- 普通 -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikuzyoukurabu&show_icons=true&locale=en&layout=compact" alt="rikuzyoukurabu" /></p> -->
+<!-- 普通 -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikuzyoukurabu&show_icons=true&locale=en" alt="rikuzyoukurabu" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikuzyoukurabu&show_icons=true&locale=en&layout=compact" alt="rikuzyoukurabu" /></p>
+<!-- 色付き -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikuzyoukurabu&show_icons=true&theme=dark)
+<!-- 色付き -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuzyoukurabu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikuzyoukurabu&show_icons=true&locale=en" alt="rikuzyoukurabu" /></p>
+<!-- 色付き -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikuzyoukurabu&show_icons=true&theme=radical) -->
+
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikuzyoukurabu)](https://github.com/rikuzyoukurabu/github-readme-stats)
+
+ -->
+
