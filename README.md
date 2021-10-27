@@ -60,9 +60,9 @@
 ・地図アプリを利用してて、詳細な情報が出てこない時
 
 ## 設計書
-・テーブル定義書は<a href="https://docs.google.com/spreadsheets/d/1JaR22Lf8fGTyORVOBvXo9AuM_9KjHx4V/edit?usp=sharing&ouid=108187170357421790105&rtpof=true&sd=true>こちら</a>から
+・テーブル定義書は<a href="https://docs.google.com/spreadsheets/d/1JaR22Lf8fGTyORVOBvXo9AuM_9KjHx4V/edit?usp=sharing&ouid=108187170357421790105&rtpof=true&sd=true">こちら</a>から
 
-・ER図は<a href="https://app.diagrams.net/#G1-mEzOxwpxDprRvzmuYSeEU3eGp2dKsLU>こちら</a>から
+・ER図は<a href="https://app.diagrams.net/#G1-mEzOxwpxDprRvzmuYSeEU3eGp2dKsLU">こちら</a>から
 
 ## チャレンジ要素一覧
 チャレンジ要素一覧は<a href="https://docs.google.com/spreadsheets/d/10K6MqC7BCRLP1_mwf-y83EEZbCjUeHMxqt-r52AQUtw/edit?usp=sharing">こちら</a>から
